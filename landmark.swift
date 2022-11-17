@@ -1,3 +1,5 @@
-print("LandkMark Test Git")
-var Name = Kak
+for i in 1...10{
+	print("Nurs` Loh")
+
+}
 
