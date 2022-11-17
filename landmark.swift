@@ -1,3 +1,5 @@
 print("LandkMark Test Git")
-var Name = Kak
+var Name = "Nurs lox"
+
+print(Name)
 
